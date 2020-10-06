@@ -1,1 +1,26 @@
-<link rel="stylesheet" href="styles.css">
+BODY {
+  font-family: 'Open Sans', arial, sans-serif;
+  font-size: 1cm;
+  color: #444;
+  font-weight:400;
+}
+
+h1{
+font-size: 3cm;
+text-transform: uppercase;
+text-align: center;
+color: #33485e;
+}
+
+strong {
+  color: #33485e;
+  text-transform: uppercase;
+  font-size: 1.5cm;
+}
+
+h2 {
+  font-size: 1.5cm;
+  text-transform: uppercase;
+  background-color: #33485e;
+  color: #fff;
+}
