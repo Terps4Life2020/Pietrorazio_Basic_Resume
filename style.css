@@ -17,14 +17,6 @@ BODY {
   margin: 0 auto;
 }
 
-.profession {
-  margin: 0 auto;
-}
-
-.top {
-  margin: 0 auto;
-}
-
 #container {
   width: 100%;
   max-width: 1200px;
@@ -117,4 +109,12 @@ li {
   margin-bottom: 0;
   margin-left: 0;
   margin-right: 0;
+  font-style: italic;
+}
+
+.top {
+  width: 60%;
+  min-width: 300px;
+  margin-bottom: 30px;
+    margin: 0 auto;
 }
